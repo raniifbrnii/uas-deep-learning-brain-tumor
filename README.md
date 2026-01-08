@@ -70,6 +70,17 @@ Hal ini disebabkan oleh keterbatasan jumlah data dan kompleksitas citra MRI.
 Model CNN berbasis Transfer Learning berhasil dibangun dan diuji
 untuk klasifikasi tumor otak berbasis citra MRI.
 Meskipun akurasi belum optimal, pendekatan ini menunjukkan potensi
-yang baik untuk pengembangan sistem pendukung diagnosis medis.  
+yang baik untuk pengembangan sistem pendukung diagnosis medis.
+
+## Referensi
+1. Masoud Nickparvar. *Brain Tumor MRI Dataset*. Kaggle.  
+   https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset  
+2. TensorFlow Developers. *TensorFlow Documentation*.  
+   https://www.tensorflow.org/
+3. Keras Team. *Keras Documentation*.  
+   https://keras.io/
+4. Tan, M., & Le, Q. (2019). *EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks*.  
+   Proceedings of the 36th International Conference on Machine Learning (ICML).  
+   https://arxiv.org/abs/1905.11946
 - TensorFlow & Keras Documentation  
 - EfficientNet: Rethinking Model Scaling for CNNs
